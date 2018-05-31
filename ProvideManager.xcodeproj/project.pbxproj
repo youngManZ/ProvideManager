@@ -17,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3322FB7520C001E50090DDA7 /* NTS_TK_RecentProtocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NTS_TK_RecentProtocol.h; sourceTree = "<group>"; };
 		33CC956620BFCC340026819C /* ProvideManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProvideManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		33CC956920BFCC340026819C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		33CC956A20BFCC340026819C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -80,6 +81,7 @@
 			children = (
 				33CC958020BFCC3D0026819C /* ProvideManager.h */,
 				33CC958120BFCC3D0026819C /* ProvideManager.m */,
+				3322FB7520C001E50090DDA7 /* NTS_TK_RecentProtocol.h */,
 			);
 			path = ProvideManager;
 			sourceTree = "<group>";
